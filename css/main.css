@@ -60,5 +60,6 @@ ul {
 
 li {
   color: #fff;
+  font-style: none;
   text-decoration: none;
 }
