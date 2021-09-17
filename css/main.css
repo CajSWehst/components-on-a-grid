@@ -53,13 +53,12 @@ nav {
 ul {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: space-around;
   font-family: "Patua One", sans-serif;
-  font-size: 2rem
+  font-size: 2rem;
+  list-style-type: none;
 }
 
-li {
+a {
   color: #fff;
-  font-style: none;
-  text-decoration: none;
 }
