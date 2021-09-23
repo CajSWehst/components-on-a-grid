@@ -1,8 +1,7 @@
 html {
   box-sizing: border-box;
-  background-color: #f2f1ed;
-  font-family: Georgia, sans-serif;
   line-height: 1.5;
+  font-family: Georgia, sans-serif;
 }
 
 *,
@@ -20,6 +19,7 @@ body {
   padding: 1rem;
   display: grid;
   grid-template-columns: 1fr 1fr;
+  background-color: #f2f1ed;
   grid-template-areas:
     "banner banner"
     "col1 col2";
